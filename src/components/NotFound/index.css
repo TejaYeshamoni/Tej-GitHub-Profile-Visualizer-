@@ -1,0 +1,26 @@
+.notFoundContainer {
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #0f172a;
+}
+.not-found-image {
+  width: 100%;
+}
+.not-found-image {
+  width: 30%;
+}
+.not-found-heading {
+  color: #ffffff;
+}
+.not-found-des {
+  color: #ffffff;
+}
+.go-to-home-button {
+  height: 30px;
+  width: 120px;
+  font-weight: bold;
+}
