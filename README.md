@@ -38,4 +38,27 @@ A React application built to search, visualize, and analyze GitHub profiles. Thi
 
 1. **Clone the repo:**
    ```bash
-   git clone (https://github.com/TejaYeshamoni/Tej-GitHub-Profile-Visualizer-.git)
+   git clone [https://github.com/TejaYeshamoni/Tej-GitHub-Profile-Visualizer-.git]
+```
+
+2. **Install dependencies:**
+```bash
+npm install
+
+```
+
+
+3. **Start the development server:**
+```bash
+npm start
+
+```
+
+
+## 📜 License
+
+This project was developed as part of an individual assessment.
+
+---
+
+**Developed by [Teja Yeshamoni**](https://www.google.com/search?q=https://github.com/TejaYeshamoni)
